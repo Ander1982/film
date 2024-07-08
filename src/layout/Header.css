@@ -1,0 +1,19 @@
+.header{
+    background: #560e9b;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+.header .wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    font-weight: bold;
+    font-size: 20px;
+}
+.right{
+    text-align: right;
+}
